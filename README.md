@@ -1,6 +1,6 @@
 <h1 align="center">Hi There 👋, I'm I'm ANNIE JAIN</h1>
 <h3 align="center">Turning ideas into reality through the power of code.</h3>
-<img align>="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F29340294%2F150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif&tbnid=-xep6cAIoHgzjM&vet=12ahUKEwih7fTp1cz_AhX0VHwKHYtFApoQMygzegQIARBJ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fsimplifyjs&docid=4kYcCklM6Nhe2M&w=640&h=360&q=code%20laptop%20gif&hl=en-GB&ved=2ahUKEwih7fTp1cz_AhX0VHwKHYtFApoQMygzegQIARBJ.gif">
+<img align>="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anniejain31&label=Profile%20views&color=0e75b6&style=flat" alt="anniejain31" /> </p>
 
@@ -30,5 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anniejain31&show_icons=true&locale=en" alt="anniejain31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anniejain31&" alt="anniejain31" /></p>
-
 

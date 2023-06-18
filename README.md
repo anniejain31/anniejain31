@@ -1,5 +1,6 @@
 <h1 align="center">Hi There 👋, I'm ANNIE JAIN</h1>
-<h3 align="center">Turning ideas into reality through the power of code.</h3>
+<h3 align="center">Turning ideas into reality through the power of code.</h3><>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/7466903-Hello-Dribbble/attachments/307954?mode=media">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anniejain31&label=Profile%20views&color=0e75b6&style=flat" alt="anniejain31" /> </p>
 
@@ -23,7 +24,7 @@
 <p><a href="https://www.buymeacoffee.com/https://bmc.link/anniejain31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/anniejain31" /></a></p><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anniejain31&show_icons=true&locale=en&layout=compact" alt="anniejain31" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anniejain31&show_icons=true&locale=en&layout=compact" alt="anniejain31" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anniejain31&show_icons=true&locale=en" alt="anniejain31" /></p>
 

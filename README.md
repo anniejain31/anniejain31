@@ -20,7 +20,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://bmc.link/anniejain31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/anniejain31" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://bmc.link/anniejain31"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/anniejain31" /></a></p><br><br>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anniejain31&show_icons=true&locale=en&layout=compact" alt="anniejain31" /></p>

@@ -1,6 +1,5 @@
 <h1 align="center">Hi There 👋, I'm I'm ANNIE JAIN</h1>
 <h3 align="center">Turning ideas into reality through the power of code.</h3>
-<img align>="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anniejain31&label=Profile%20views&color=0e75b6&style=flat" alt="anniejain31" /> </p>
 
